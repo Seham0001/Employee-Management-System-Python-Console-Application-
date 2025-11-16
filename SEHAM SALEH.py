@@ -1,4 +1,4 @@
-'''Name: Seham Saleh Yaslam Bin Tayeb, TP084085 '''
+'''Name: Seham Saleh Yaslam Bin Tayeb, '''
 
 print('Employee Management System')
 
@@ -208,3 +208,4 @@ def reset_password(user):
 
 
 main_menu()
+
